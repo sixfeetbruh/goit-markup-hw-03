@@ -328,11 +328,6 @@ button {
     border: var(--primary-border);
     border-top: transparent;
 }
-
-.lom {
-    border-bottom: transparent;
-}
-
 /* =============== PORTFOLIO BUTTON SECTION =============== */
 
 .button-portfolio {
